@@ -1,0 +1,9 @@
+G:\zsb\Code\vs2013\2017\wfa_socket_demo\Client\bin\Debug\Client.exe.config
+G:\zsb\Code\vs2013\2017\wfa_socket_demo\Client\bin\Debug\Client.exe
+G:\zsb\Code\vs2013\2017\wfa_socket_demo\Client\bin\Debug\Client.pdb
+G:\zsb\Code\vs2013\2017\wfa_socket_demo\Client\obj\Debug\Client.Properties.Resources.resources
+G:\zsb\Code\vs2013\2017\wfa_socket_demo\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+G:\zsb\Code\vs2013\2017\wfa_socket_demo\Client\obj\Debug\Client.exe
+G:\zsb\Code\vs2013\2017\wfa_socket_demo\Client\obj\Debug\Client.pdb
+G:\zsb\Code\vs2013\2017\wfa_socket_demo\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\zsb\Code\vs2013\2017\wfa_socket_demo\Client\obj\Debug\Client.FormClient.resources
